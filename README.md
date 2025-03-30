@@ -1,4 +1,4 @@
-# Parallel --- Experiment1
+# Parallel --- Experiment1（代码等文件在master分支）
 
 ## 文件结构
 - `code` 文件夹包含实验的代码：  
